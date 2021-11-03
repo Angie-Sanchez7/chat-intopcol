@@ -36,14 +36,14 @@ export const SidebarChatItem = ({ usuario }) => {
             {/* active_chat */}
             <div className="chat_people">
                 <div className="chat_img"> 
-                    <img src="https://p.kindpng.com/picc/s/78-786207_user-avatar-png-user-avatar-icon-png-transparent.png" alt="sunil" />
+                    <img src='https://previews.123rf.com/images/anwarsikumbang/anwarsikumbang1502/anwarsikumbang150200445/36649700-hombre-avatar-de-dibujos-animados-imagen-usuario-personaje-ilustraci%C3%B3n-vectorial.jpg'alt="sunil" />
                 </div>
                 <div className="chat_ib">
                     <h5> { usuario.nombre } </h5>
                     {
                         ( usuario.online )
-                            ? <span className="text-success">Online</span>
-                            : <span className="text-danger">Offline</span>
+                            ? <span className="text-online">Online</span>
+                            : <span className="text-Offline">Offline</span>
                     }
                    
                 </div>

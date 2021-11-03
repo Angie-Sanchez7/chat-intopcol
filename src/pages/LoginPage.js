@@ -10,8 +10,8 @@ export const LoginPage = () => {
     const { login } = useContext( AuthContext );
     
     const [ form, setForm ] = useState({
-        email: '',
-        password: '',
+        email: 'angie@gmail.com',
+        password: '123456',
         rememberme: false
     });
 
@@ -65,12 +65,16 @@ export const LoginPage = () => {
 
 
     return (
+        <div className='background-image'>
+        <span className="login101-form-title mb-3">
+            Intopcol
+        </span>
         <form 
             className="login100-form validate-form flex-sb flex-w"
             onSubmit={ onSubmit }
         >
             <span className="login100-form-title mb-3">
-                Chat - Ingreso
+                Login
             </span>
             
             <div className="wrap-input100 validate-input mb-3">
@@ -118,7 +122,7 @@ export const LoginPage = () => {
 
                 <div className="col text-right">
                     <Link to="/auth/register" className="txt1">
-                        Nueva cuenta?
+                    ¿No tienes una cuenta?
                     </Link>
                 </div>
             </div>
@@ -134,5 +138,7 @@ export const LoginPage = () => {
             </div>
 
         </form>
+        </div>
+
     )
 }

@@ -12,9 +12,9 @@ export const RegisterPage = () => {
     const { register } = useContext( AuthContext );
     
     const [ form, setForm ] = useState({
-        email: 'test6@test.com',
+        email: 'andrey@test.com',
         password: '123456',
-        name: 'Susana Paz'
+        name: 'Andrey'
     });
 
     const onChange = ({ target }) => {
@@ -46,12 +46,18 @@ export const RegisterPage = () => {
 
 
     return (
+        <div className='background-imagee '>
+
+            <span className="login101-form-title mb-3">
+                Intopcol
+            </span>
+
         <form 
             className="login100-form validate-form flex-sb flex-w"
             onSubmit={ onSubmit }
         >
             <span className="login100-form-title mb-3">
-                Chat - Registro
+                 Registro
             </span>
 
             <div className="wrap-input100 validate-input mb-3">
@@ -95,7 +101,7 @@ export const RegisterPage = () => {
             <div className="row mb-3">
                 <div className="col text-right">
                     <Link to="/auth/login" className="txt1">
-                        Ya tienes cuenta?
+                    ¿Ya tienes cuenta?
                     </Link>
                 </div>
             </div>
@@ -111,5 +117,6 @@ export const RegisterPage = () => {
             </div>
 
         </form>
+        </div>
     )
 }

@@ -98,7 +98,7 @@ iframe {
 [ Utility ]*/
 .txt1 {
   font-size: 16px;
-  color: #827ffe;
+  color: #000000;
   line-height: 1.4;
 }
 
@@ -165,8 +165,8 @@ iframe {
 .wrap-input100 {
   width: 100%;
   position: relative;
-  background-color: #e6e6e6;
-  border: 1px solid transparent;
+  background-color: #F9FAFA;
+  border: 1px solid #38b88f;
   border-radius: 3px;
 }
 
@@ -194,7 +194,7 @@ iframe {
   top: -1px;
   left: -1px;
   pointer-events: none;
-  border: 1px solid #827ffe;
+  border: 1px solid #38b88f;
   border-radius: 3px;
 
   visibility: hidden;
@@ -244,7 +244,7 @@ iframe {
 
 .label-checkbox100 {
   font-size: 16px;
-  color: #999999;
+  color: #000;
   line-height: 1.2;
 
   display: block;
@@ -271,7 +271,7 @@ iframe {
   height: 18px;
   border-radius: 3px;
   background: #fff;
-  border: 2px solid #827ffe;
+  border: 2px solid #000;
   left: 0;
   top: 50%;
   -webkit-transform: translateY(-50%);
@@ -282,7 +282,7 @@ iframe {
 }
 
 .input-checkbox100:checked + .label-checkbox100::before {
-  color: #827ffe;
+  color: #000;
 }
 
 
@@ -314,8 +314,8 @@ iframe {
   padding: 0 20px;
   width: 100%;
   height: 62px;
-  background-color: #827ffe;
-  border-radius: 3px;
+  background-color: #38b88f;
+  border-radius: 30px;
 
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
@@ -323,9 +323,7 @@ iframe {
   transition: all 0.4s;
 }
 
-.login100-form-btn:hover {
-  background-color: #403866;
-}
+
 
 
 .login100-form-btn:disabled {
@@ -390,6 +388,39 @@ iframe {
   visibility: visible;
   opacity: 1;
 }
+.background-imagee{
+  background-image: url('../img/login.svg');
+
+}
+
+.background-image{
+  background-image: url('../img/login.svg');
+
+}
+
+
+.login101-form-title{
+  font-size: 35px;
+  color: #403866;
+  line-height: 4.5;
+  text-transform: uppercase;
+  text-align: center;
+
+  width: 100%;
+  display: block;
+}
+.login100-form-title {
+  font-size: 20px;
+  color: #403866;
+  line-height: 1.2;
+  text-transform: uppercase;
+  text-align: right;
+
+  width: 100%;
+  display: block;
+}
+
+
 
 @media (max-width: 992px) {
   .alert-validate::before {
