@@ -66,8 +66,7 @@ _Derechos de autor (c) 2021_
 _Por la presente se otorga permiso, sin cargo, a cualquier persona que obtenga una copia.
 de este software y los archivos de documentación asociados (el "Software"), para tratar
 en el Software sin restricción, incluidos, entre otros, los derechos
-para usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y / o vender
-copias del Software, y para permitir a las personas a las que el Software es
+para usar, copiar, modificar, fusionar, publicar, distribuir, y para permitir a las personas a las que el Software es
 amueblado para ello, sujeto a las siguientes condiciones:_
 
 _El aviso de copyright anterior y este aviso de permiso se incluirán en todos
