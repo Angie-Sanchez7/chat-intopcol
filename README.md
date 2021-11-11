@@ -53,6 +53,8 @@ _Las herramientas que se usaron para crear éste proyecto, son:_
 * [Mongo](https://www.mongodb.com/) - Base de datos
 * [Bootstrap](https://getbootstrap.com/) - Crear sitios rápidos y receptivos
 
+## Autores ✒️
+
 Este proyecto fue realizado en colaboración de :
 * **Fernánda Sánchez, github: https://github.com/Fernaandaa**
 * **Angie Sánchez, github: https://github.com/Angie-Sanchez7**
