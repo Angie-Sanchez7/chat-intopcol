@@ -5,8 +5,9 @@ _Los equipos corporativos siempre necesitan estar en comunicación segura por es
 ## Comenzando 🚀
 
 _Clonar el repositorio con el siguiente comando:_
-_git clone https://github.com/Angie-Sanchez7/chat-intopcol.git_
-
+```
+git clone https://github.com/Angie-Sanchez7/chat-intopcol.git
+```
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
