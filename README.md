@@ -51,3 +51,4 @@ _Las herramientas que se usaron para crear éste proyecto, son:_
 * [CSS3](https://www.w3.org/Style/CSS/Overview.en.html) -  Lenguaje de hojas de estilo en cascada para estilizar elementos 
 * [Reactjs](https://reactjs.org/) - Biblioteca de Javascript para crear interfaces
 * [Mongo](https://www.mongodb.com/) - Base de datos
+* [Bootstrap](https://getbootstrap.com/) - Crear sitios rápidos y receptivos
