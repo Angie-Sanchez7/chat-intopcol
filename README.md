@@ -36,3 +36,7 @@ _En la carpeta principal ejecutas el siguiente comando:_
 npm run dev
 ```
 _Este comando levanta el servidor y así verificas que funciona_
+
+## Despliegue 📦
+
+_https://serene-clarke-c99938.netlify.app/auth/login_
