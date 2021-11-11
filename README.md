@@ -1,4 +1,4 @@
-# Chat empresarial
+# Chat empresarial - Intopcol
 
 _Los equipos corporativos siempre necesitan estar en comunicación segura por esta razón es importante tener controlados estos medios pues deben ser profesionales, costumizados y seguros para brindar tanto información eficiente como en tiempo real entre los integrantes de los equipos. Por ello hemos creado una Web App de chat para la empresa "Intopcol". Empresa de topografía la cual busca un desarrollo que le permita la interacción entre los perticipantes y la líder del equipo._
 
