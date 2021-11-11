@@ -1,6 +1,6 @@
 # Chat empresarial - Intopcol
 
-_Los equipos corporativos siempre necesitan estar en comunicación segura por esta razón es importante tener controlados estos medios pues deben ser profesionales, costumizados y seguros para brindar tanto información eficiente como en tiempo real entre los integrantes de los equipos. Por ello hemos creado una Web App de chat para la empresa "Intopcol". Empresa de topografía la cual busca un desarrollo que le permita la interacción entre los perticipantes y la líder del equipo._
+_Los equipos corporativos siempre necesitan estar en comunicación segura por esta razón es importante tener controlados estos medios pues deben ser profesionales, costumizados y seguros para brindar tanto información eficiente como en tiempo real entre los integrantes de los equipos. Por ello hemos creado una Web App de chat para la empresa "Intopcol". Empresa de topografía la cual busca un desarrollo que le permita la interacción entre los participantes y la líder del equipo._
 
 ## Comenzando 🚀
 
@@ -31,7 +31,6 @@ npm -i o npm install
 ``` 
 _Al ejecutar éste comando se instalan las dependencias_
 
-_Y repite_
 _En la carpeta principal ejecutas el siguiente comando:_
 ```
 npm run dev
