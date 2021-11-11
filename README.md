@@ -45,9 +45,9 @@ _https://serene-clarke-c99938.netlify.app/auth/login_
 
 _Las herramientas que se usaron para crear éste proyecto, son:_
 
-* [Visual] - Editor de código
-* [Chrome] - Navegador para hacer pruebas y correr el servidor localmente
-* [HTML5] - Lenguaje de hipertexto
-* [CSS3] -  Lenguaje de hojas de estilo en cascada para estilizar elementos 
-* [Reactjs] - Biblioteca de Javascript para crear interfaces
-* [Mongo] - Base de datos
+* [Visual](https://code.visualstudio.com/) - Editor de código
+* [ Google Chrome](https://www.google.com/webhp?hl=es-419&sa=X&sqi=2&pjf=1&ved=0ahUKEwitgtGcv4_0AhViCrkGHcCeB14QPAgI) - Navegador para hacer pruebas y correr el servidor localmente
+* [HTML5](https://html5.org/) - Lenguaje de hipertexto
+* [CSS3](https://www.w3.org/Style/CSS/Overview.en.html) -  Lenguaje de hojas de estilo en cascada para estilizar elementos 
+* [Reactjs](https://reactjs.org/) - Biblioteca de Javascript para crear interfaces
+* [Mongo](https://www.mongodb.com/) - Base de datos
