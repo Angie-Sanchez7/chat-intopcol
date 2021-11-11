@@ -52,3 +52,14 @@ _Las herramientas que se usaron para crear éste proyecto, son:_
 * [Reactjs](https://reactjs.org/) - Biblioteca de Javascript para crear interfaces
 * [Mongo](https://www.mongodb.com/) - Base de datos
 * [Bootstrap](https://getbootstrap.com/) - Crear sitios rápidos y receptivos
+
+Este proyecto fue realizado en colaboración de :
+* **Fernánda Sánchez, github: https://github.com/Fernaandaa**
+* **Angie Sánchez, github: https://github.com/Angie-Sanchez7**
+
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invita una Jugo o un café ☕ a alguien del equipo. 
+* Da las gracias públicamente 🤓.
+* etc.
