@@ -40,3 +40,14 @@ _Este comando levanta el servidor y así verificas que funciona_
 ## Despliegue 📦
 
 _https://serene-clarke-c99938.netlify.app/auth/login_
+
+## Construido con 🛠️
+
+_Las herramientas que se usaron para crear éste proyecto, son:_
+
+* [Visual] - Editor de código
+* [Chrome] - Navegador para hacer pruebas y correr el servidor localmente
+* [HTML5] - Lenguaje de hipertexto
+* [CSS3] -  Lenguaje de hojas de estilo en cascada para estilizar elementos 
+* [Reactjs] - Biblioteca de Javascript para crear interfaces
+* [Mongo] - Base de datos
