@@ -61,8 +61,6 @@ Este proyecto fue realizado en colaboración de :
 
 ## Licencia 📄
 
-_Licencia MIT_
-
 _Derechos de autor (c) 2021_
 
 _Por la presente se otorga permiso, sin cargo, a cualquier persona que obtenga una copia.
